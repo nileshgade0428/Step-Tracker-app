@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GoogleFitApiTest</string>
+    <string name="tv_gyro_data">Gyro data (rad/s):</string>
+    <string name="tv_accelerometer_data">Accelerometer data (m/s²):</string>
+    <string name="tv_compass_data">Compass data (rad) :</string>
+    <string name="choose_fps">Choose fps</string>
+    <string name="amount_of_steps">Amount of steps:</string>
+    <string name="sensors_info">Sensors info:</string>
+    <string name="subject_name">Subject name</string>
+
+    <string-array name="fps_array">
+        <item>30 fps</item>
+        <item>40 fps</item>
+        <item>50 fps</item>
+        <item>60 fps</item>
+        <item>70 fps</item>
+    </string-array>
+</resources>
